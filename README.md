@@ -7,3 +7,5 @@ usages 'exports["skillbar"]:CreateSkillbar(1, "easy")'
 
 --the one is how much times the skillbar gonna showup
 --the easy represants the diffuclty
+
+Join rockstar services for more.  -https://discord.gg/pAv9z57m7b
